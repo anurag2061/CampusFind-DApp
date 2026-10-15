@@ -1,0 +1,1 @@
+Add genuine screenshots after running the project: Remix compilation; contract deployment and address; MetaMask connected; successful report transaction; failed validation/unauthorized action; blockchain data displayed in frontend. Do not use fabricated screenshots. Record actual transaction hashes and observed outcomes.
